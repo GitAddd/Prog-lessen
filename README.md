@@ -1,1 +1,1 @@
-Hoi
+# Score en munten
