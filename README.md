@@ -12,4 +12,4 @@ https://github.com/GitAddd/Prog-lessen/blob/main/Assets/scripts/Les%203.cs
 
 # Start and play
 ![start](https://github.com/Ymmas1968/Prog-lessen/blob/main/PROG%20-%20start%20-%20Windows%2C%20Mac%2C%20Linux%20-%20Unity%206%20(6000.0.33f1)%20_DX11_%202025-06-13%2013-57-28.gif)
-https://github.com/Ymmas1968/Prog-lessen/tree/main/Assets/scripts/Les%204
+https://github.com/Ymmas1968/Prog-lessen/blob/main/Assets/scripts/Les%204/Changescene.cs
