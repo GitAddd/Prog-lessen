@@ -17,3 +17,8 @@ Hier heb ik gedaan dat je met een trigger de blokken kan oppakken en de score om
 ![start](https://github.com/Ymmas1968/Prog-lessen/blob/main/PROG%20-%20start%20-%20Windows%2C%20Mac%2C%20Linux%20-%20Unity%206%20(6000.0.33f1)%20_DX11_%202025-06-13%2013-57-28.gif)
 https://github.com/Ymmas1968/Prog-lessen/blob/main/Assets/scripts/Les%204/Changescene.cs
 Ik heb gedaan dat als je op spatie drukt dat je van scene switched.
+
+# gestructureerde muntenjager
+![Munt](https://github.com/Ymmas1968/Prog-lessen/blob/main/PROG%20-%20les5%20-%20Windows%2C%20Mac%2C%20Linux%20-%20Unity%206%20(6000.0.33f1)_%20_DX11_%202025-06-20%2015-02-19.gif)
+https://github.com/Ymmas1968/Prog-lessen/blob/main/Assets/scripts/les5.cs en https://github.com/Ymmas1968/Prog-lessen/blob/main/Assets/scripts/les5%20scorebord.cs
+Scoreboard en player script gelinked
