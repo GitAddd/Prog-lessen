@@ -22,3 +22,7 @@ Ik heb gedaan dat als je op spatie drukt dat je van scene switched.
 ![Munt](https://github.com/Ymmas1968/Prog-lessen/blob/main/PROG%20-%20les5%20-%20Windows%2C%20Mac%2C%20Linux%20-%20Unity%206%20(6000.0.33f1)_%20_DX11_%202025-06-20%2015-02-19.gif)
 https://github.com/Ymmas1968/Prog-lessen/blob/main/Assets/scripts/les5.cs en https://github.com/Ymmas1968/Prog-lessen/blob/main/Assets/scripts/les5%20scorebord.cs
 Scoreboard en player script gelinked
+
+# Volger
+![Volger](https://github.com/Ymmas1968/Prog-lessen/blob/main/PROG%20-%20Opdracht%206%20-%20Windows%2C%20Mac%2C%20Linux%20-%20Unity%206%20(6000.0.33f1)%20_DX11_%202025-06-27%2014-30-49.gif)
+https://github.com/Ymmas1968/Prog-lessen/blob/main/Assets/scripts/PlayerMove.cs, https://github.com/Ymmas1968/Prog-lessen/blob/main/Assets/scripts/FollowAndReturn.cs en https://github.com/Ymmas1968/Prog-lessen/blob/main/Assets/scripts/MoveOverfield.cs
